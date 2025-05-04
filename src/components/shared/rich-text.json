@@ -9,6 +9,9 @@
   "attributes": {
     "body": {
       "type": "richtext"
+    },
+    "SP": {
+      "type": "blocks"
     }
   }
 }
